@@ -9,6 +9,8 @@ The processing and classification of electroencephalography (EEG) signals is cha
 * Tensorflow
 * PostgreSQL 11.5
 
+## Usage
+
 ## Publications
 
 #### Thesis
