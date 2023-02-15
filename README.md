@@ -4,6 +4,11 @@ The processing and classification of electroencephalography (EEG) signals is cha
 
 ## Requirements
 
+* Python
+* Platypus
+* Tensorflow
+* PostgreSQL 11.5
+
 ## Publications
 
 #### Thesis
