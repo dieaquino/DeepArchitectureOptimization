@@ -6,6 +6,10 @@ The processing and classification of electroencephalography (EEG) signals is cha
 
 ## Publications
 
+#### Thesis
+
+1. Aquino-Brítez, Diego. Optimización multi-objetivo de arquitecturas de aprendizaje profundo para el procesamiento de señales EEG en plataformas de cómputo heterogéneas. Granada: Universidad de Granada, 2022. [http://hdl.handle.net/10481/75440]
+
 #### Journals
 
 1. Aquino-Brítez, D., Ortiz, A., Ortega, J., León, J., Formoso, M., Gan, J. Q., & Escobar, J. J. (2021). Optimization of deep architectures for eeg signal classification: An automl approach using evolutionary algorithms. Sensors, 21(6), 2096.
