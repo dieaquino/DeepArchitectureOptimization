@@ -13,9 +13,11 @@ The processing and classification of electroencephalography (EEG) signals is cha
 
 First, execute the SQL script (optimization.sql) in the Postgresql database to have the tables.
 
-Optimal_Master_gpu.py
-Optimal_Worker_gpu.py
-Optimal_CNN_optim.py
+Then, the following files are used for the optimization of neural networks.
+
+* Optimal_Master_gpu.py
+* Optimal_Worker_gpu.py
+* Optimal_CNN_optim.py
 
 
 ## Publications
