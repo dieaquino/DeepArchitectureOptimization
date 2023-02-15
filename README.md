@@ -2,6 +2,8 @@
 
 The processing and classification of electroencephalography (EEG) signals is challenging due to low signal-to-noise ratio and the presence of artifacts. While there are classification techniques based on features extracted from the signal, deep neural networks offer new opportunities to improve accuracy without the need for predefined features. However, deep learning architectures have many hyperparameters that affect performance, and this paper proposes a method to optimize both the hyperparameters and structure of the network. Experimental results show that deep learning architectures optimized by this method are more accurate and energy-efficient than baseline models.
 
+## Requirements
+
 ## Publications
 
 #### Journals
