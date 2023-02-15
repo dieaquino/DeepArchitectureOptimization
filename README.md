@@ -4,9 +4,9 @@ The processing and classification of electroencephalography (EEG) signals is cha
 
 ## Requirements
 
-* Python
+* [*Python 3.6.8*](https://www.python.org/downloads/)
 * [*Platypus*](https://github.com/Project-Platypus/Platypus)
-* Tensorflow 2.4.1
+* [*Tensorflow 2.4.1*](https://www.tensorflow.org/?hl=es-419)
 * [*PostgreSQL 11.5*](https://www.postgresql.org/)
 
 ## Usage
