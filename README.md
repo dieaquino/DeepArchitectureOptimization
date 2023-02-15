@@ -26,7 +26,7 @@ The processing and classification of electroencephalography (EEG) signals is cha
 This work has been funded by:
 
 * Spanish [*Ministerio de Ciencia, Innovación y Universidades*](https://www.ciencia.gob.es/) under grant number PGC2018-098813-B-C31 and PGC2018-098813-B-C32.
-* Spanish [*Consejería De Conocimiento Junta De Andalucía*](https://www.juntadeandalucia.es/organismos/universidadinvestigacioneinnovacion.html) under grant number UMA20-FEDERJA-086.
+* Spanish [*Consejería de Conocimiento Junta de Andalucía*](https://www.juntadeandalucia.es/organismos/universidadinvestigacioneinnovacion.html) under grant number UMA20-FEDERJA-086.
 * [*European Regional Development Fund (ERDF)*](https://ec.europa.eu/regional_policy/en/funding/erdf/).
 
 <div style="text-align: right">
